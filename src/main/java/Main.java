@@ -17,11 +17,11 @@ public class Main {
         System.out.println("perimeter: " + t1.getPerimeter());
         System.out.println("area: " + t1.getArea());
 
-        Triangle t2 = new Triangle();
-        System.out.println("\nTriangle-2\n****************************************");
-        System.out.println(t2.toString());
-        System.out.println("type: " + t2.classifyByAngles());
-        System.out.println("perimeter: " + t2.getPerimeter());
-        System.out.println("area: " + t2.getArea());
+        // Triangle t2 = new Triangle();
+        // System.out.println("\nTriangle-2\n****************************************");
+        // System.out.println(t2.toString());
+        // System.out.println("type: " + t2.classifyByAngles());
+        // System.out.println("perimeter: " + t2.getPerimeter());
+        // System.out.println("area: " + t2.getArea());
     }
 }
